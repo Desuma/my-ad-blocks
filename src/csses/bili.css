@@ -1,0 +1,9 @@
+.horizontal-mode.arrow-right {
+    cursor: url(//i0.hdslb.com/bfs/manga-static/manga-pc/static/img/591bfd05ab1a6.cur) 32 32, auto !important;
+    width: 100px;
+}
+
+.horizontal-mode.arrow-left {
+    width: 100px;
+    cursor: url(//i0.hdslb.com/bfs/manga-static/manga-pc/static/img/88e752abe2f07.cur) 32 32, auto !important;
+}
